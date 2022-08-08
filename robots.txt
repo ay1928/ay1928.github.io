@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+User-agent:*
+Disallow:
+
+Sitemap: https://anyang1928.github.io/sitemap.xml

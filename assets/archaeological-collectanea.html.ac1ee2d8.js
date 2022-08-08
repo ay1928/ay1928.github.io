@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as a,c}from"./app.9c7da2b4.js";const o={};function r(l,t){return a(),c("div")}var f=e(o,[["render",r],["__file","archaeological-collectanea.html.vue"]]);export{f as default};
