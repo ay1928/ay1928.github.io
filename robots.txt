@@ -5,3 +5,8 @@ User-agent:*
 Disallow:
 
 Sitemap: https://ay1928.github.io/sitemap.xml
+
+User-agent:*
+Disallow:
+
+Sitemap: https://ay1928.github.io/sitemap.xml
